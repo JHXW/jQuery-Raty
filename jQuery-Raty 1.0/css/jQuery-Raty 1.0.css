@@ -1,0 +1,54 @@
+.star {
+	width: 100%;
+	line-height: 30px;
+	background-color: #CCCCCC;
+	padding: 0 10px;
+	margin-bottom: 50px;
+}
+
+#star a {
+	position: absolute;
+	display: block;
+	height: 21px;
+}
+
+#satrvessel {
+	background: url(../images/stark2.png);
+	width: 0px;
+	height: 21px;
+}
+
+#star {
+	position: relative;
+	height: 21px;
+	line-height: 21px;
+	width: 100%;
+}
+
+.clibg {
+	background: url(../images/stars2.png);
+}
+
+.clibgs {
+	background: url(../images/stars2.png);
+}
+
+#star div{
+	float: left;
+	font-size: 14px;
+}
+
+#star #grade{
+	margin-left: 25px;
+}
+
+#star #grade #msg{
+	color: red;
+	font-family: "bookman old style";
+	font-size: 16px;
+}
+
+#star #comment{
+	height: 21px;
+	margin-left: 25px;
+}
